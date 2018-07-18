@@ -1,0 +1,8 @@
+---
+application:
+- name: spring-boot
+  path: target/Spring.jar
+  memory: 512m
+  instances: 1
+  
+  
